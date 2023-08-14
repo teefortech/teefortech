@@ -1,5 +1,4 @@
-### Hi there 👋      ![wave](https://github.com/teefortech/teefortech/blob/main/wave.gif)
-
+### Hi there 👋      ![wave](https://github.com/teefortech/teefortech.github.io/blob/main/wave.gif)
 
 <!--
 **teefortech/teefortech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### Hi there 👋 ![wave](./images/wave.gif)
+### Hi there 👋  /../../../../github/blob/main/images/wave.gif
 
 
 <!--

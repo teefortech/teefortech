@@ -1,4 +1,4 @@
-### Hi there 👋 ![https://teefortech.github.io](/wave.gif)
+### Hi there 👋 ![wave](./images/wave.gif)
 
 
 <!--

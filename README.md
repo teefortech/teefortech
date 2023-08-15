@@ -3,7 +3,7 @@ No hype. I am just an upcoming Software Engineer with sauce😋 You want some?
 - ✉ I know you'd love to have me in your team. Just send an [Email](mailto:nwuzoranthonym@gmail.com), and I'll be right there.
 * 🖥 You haven't sent that mail? OK, let me keep my leg cross and wait a little longer.
 + 😎 Now, you can check out this simple [website](https://teefortech.github.io/) of mine.
-<a href="https://twitter.com/teefortech?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @teefortech</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+
 More updates coming soon...
 
 #### Stay Connected!

@@ -7,6 +7,7 @@ No hype. I am just an upcoming Software Engineer with some sauce😋 You want so
 More updates coming soon...
 
 #### Stay Connected!
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 // README.md
 ![Github stats](https://github-readme-stats.vercel.app/api?username=teefortech&theme=highcontrast&show_icons=true&count_private=true)

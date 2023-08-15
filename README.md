@@ -1,7 +1,7 @@
 # Hi  <img src="https://github.com/teefortech/teefortech.github.io/blob/main/wave.gif" width="35" /> 
 No hype. I am just an upcoming Software Engineer with some sauce😋 You want some?
 - ✉ I know you'd love to have me in your team. Just send an [Email](mailto:nwuzoranthonym@gmail.com), and I'll be right there.
-* 🖥 You haven't sent that mail? OK, let me keep my leg cross and wait a little.
+* 🖥 You haven't sent that mail? OK, let me keep my leg cross and wait a little longer.
 + 😎 Now, you can check out this simple [website](https://teefortech.github.io/) of mine.
   
 More updates coming soon...

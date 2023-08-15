@@ -4,7 +4,7 @@ No hype. I am just an upcoming Software Engineer with some sauce😋 You want so
 * 🖥 You haven't sent that mail? OK, let me keep my leg cross and wait a little.
 + 😎 Now, you can check out this simple [website](https://teefortech.github.io/) of mine.
   
-(https://github.com/teefortech#)[I'm]
+https://github.com/teefortech#-im-sharing-a-lot-on-social-media
 <!--
 **teefortech/teefortech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

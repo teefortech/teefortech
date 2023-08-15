@@ -12,9 +12,7 @@ More updates coming soon...
 ![Github stats](https://github-readme-stats.vercel.app/api?username=teefortech&theme=highcontrast&show_icons=true&count_private=true)
 
 ### 💰 You've come this far? That's awesome!👏 You're buying me a coffee.
-<!…Coffee_Code…>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="teefortech" data-color="#FF5F5F" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-
+<a href="https://www.buymeacoffee.com/teefortech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
  <!--
 **teefortech/teefortech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

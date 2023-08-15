@@ -10,6 +10,9 @@ More updates coming soon...
 
 ## 📊 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=teefortech&theme=highcontrast&show_icons=true&count_private=true)
+
+You've come this far? That's great!
+You know you can't come this far without buying me a coffee 🤗
 <!--
 **teefortech/teefortech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 # Hi  <img src="https://github.com/teefortech/teefortech.github.io/blob/main/wave.gif" width="35" /> 
 No hype. I am just an upcoming Software Engineer with some sauce😋 You want some?
--# ✉ I know you
+-✉ I know you
 *
 +
 <!--

@@ -1,4 +1,5 @@
-# Hi  <img src="https://github.com/teefortech/teefortech.github.io/blob/main/wave.gif" width="35" />    
+# Hi  <img src="https://github.com/teefortech/teefortech.github.io/blob/main/wave.gif" width="35" /> 
+Nothing fancy. I am just an upcoming Software Engineer with some sauce.
 <!--
 **teefortech/teefortech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

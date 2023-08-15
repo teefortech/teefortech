@@ -6,8 +6,7 @@ No hype. I am just an upcoming Software Engineer with some sauce😋 You want so
   
 More updates coming...
 
-## Stay Connected!
-(https://twitter.com/teefortech_)
+#### Stay Connected!
 <!--
 **teefortech/teefortech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

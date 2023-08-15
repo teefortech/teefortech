@@ -5,6 +5,8 @@ No hype. I am just an upcoming Software Engineer with some sauce😋 You want so
 + 😎 Now, you can check out this simple [website](https://teefortech.github.io/) of mine.
   
 More updates coming...
+
+# I'm
 <!--
 **teefortech/teefortech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

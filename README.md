@@ -7,7 +7,7 @@ No hype. I am just an upcoming Software Engineer with some sauce😋 You want so
 More updates coming...
 
 ## I'm
-https://twitter.com/teefortech_
+(https://twitter.com/teefortech_)
 <!--
 **teefortech/teefortech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

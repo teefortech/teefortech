@@ -4,7 +4,7 @@ No hype. I am just an upcoming Software Engineer with some sauce😋 You want so
 * 🖥 You haven't sent that mail? OK, let me keep my leg cross and wait a little.
 + 😎 Now, you can check out this simple [website](https://teefortech.github.io/) of mine.
   
-More updates coming...
+More updates coming soon...
 
 #### Stay Connected!
 <!--

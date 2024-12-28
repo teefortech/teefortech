@@ -5,7 +5,7 @@ No hype, no fluff—just an aspiring Data Scientist with a knack for turning raw
 * 🖥 Still thinking about it? That’s cool—I’ll wait here, analyzing datasets and brewing some fresh ideas.
 + 😎 In the meantime, feel free to check out my simple [website](https://teefortech.github.io/). It’s a growing portfolio of what I’ve been up to.
 
-# 💡 little about me:
+### 💡 little about me:
 
 + Passionate about uncovering hidden patterns, building predictive models, and making data-driven decisions.
 
@@ -14,7 +14,7 @@ No hype, no fluff—just an aspiring Data Scientist with a knack for turning raw
 - Always eager to collaborate, learn new tools, and tackle challenging datasets.
 
 
-# 🚀 What’s next?
+### 🚀 What’s next?
 - More projects, deeper insights, and some exciting experiments—stay tuned because I’m just getting started!
 
 #### Stay Connected!

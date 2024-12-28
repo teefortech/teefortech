@@ -1,4 +1,4 @@
-# Hi  <img src="https://github.com/teefortech/teefortech.github.io/blob/main/wave.gif" width="35" /> 
+# Hi 👋 <img src="https://github.com/teefortech/teefortech.github.io/blob/main/wave.gif" width="35" /> 
 
 No hype, no fluff—just an aspiring Data Scientist with a knack for turning raw data into meaningful insights. I’m just getting started, but I’ve got the curiosity, creativity, and drive to dive deep into the data world. Want to see what I’m working on?
 - 📩 Got a problem that needs solving, an idea to explore, or a role to fill? Drop me an [Email](mailto:nwuzoranthonym@gmail.com), and I’ll bring the data magic to your team.

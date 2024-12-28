@@ -2,7 +2,7 @@
 
 No hype, no fluff—just an aspiring Data Scientist with a knack for turning raw data into meaningful insights. I’m just getting started, but I’ve got the curiosity, creativity, and drive to dive deep into the data world. Want to see what I’m working on?
 - 📩 Got a problem that needs solving, an idea to explore, or a role to fill? Drop me an [Email](mailto:nwuzoranthonym@gmail.com), and I’ll bring the data magic to your team.
-* 🖥 Still thinking about it? That’s cool—I’ll wait here, analyzing datasets and brewing some fresh ideas.
+* 🖥 Still thinking about it? That’s cool. I’ll wait here, analyzing datasets and brewing some fresh ideas.
 + 😎 In the meantime, feel free to check out my simple [website](https://teefortech.github.io/). It’s a growing portfolio of what I’ve been up to.
 
 ### 💡 little about me:

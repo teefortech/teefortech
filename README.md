@@ -16,7 +16,7 @@ No hype, no fluff—just an aspiring Data Scientist with a knack for turning raw
 
 ### 🚀 What’s next?
 - More projects, deeper insights, and some exciting experiments. 
-- 🎧 Stay tuned because I’m just getting started!
+- 👀 Stay tuned because I’m just getting started!
 
 #### Stay Connected!
 
